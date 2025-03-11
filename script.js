@@ -3,7 +3,7 @@ var car1 = new Object();
 car1.color = "blue";
 car1.maxSpeed = 180;
 car1.driver = new Object();
-car1.driver.name = "Іван Іванов";
+car1.driver.name = "Kuziv Roman";
 car1.driver.category = "C";
 car1.driver.personalLimitations = "No driving at night";
 car1.tuning = true;
@@ -14,7 +14,7 @@ var car2 = {
     color: "red",
     maxSpeed: 220,
     driver: {
-      name: "Іван Іванов",
+      name: "Kuziv Roman",
       category: "B", 
       personalLimitations: null
     },
